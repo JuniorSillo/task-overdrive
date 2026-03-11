@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskOverdrive.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1bf000a55b531bce7b4576cd5a3c9acbfcc747a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskOverdrive.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskOverdrive.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
