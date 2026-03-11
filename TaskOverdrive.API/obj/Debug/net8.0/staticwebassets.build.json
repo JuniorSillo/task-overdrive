@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LojWDgU4bI1KonWkv2sR2i3TyGChUwliJGCcIo9LmAQ=",
+  "Source": "TaskOverdrive.API",
+  "BasePath": "_content/TaskOverdrive.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
